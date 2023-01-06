@@ -6,4 +6,9 @@
 		driver.findElement(By.id("username")).sendkeys("Pune");
 	driver.findElement(By.id("username")).sendkeys("Pune");
 	driver.findElement(By.id("username")).sendkeys("Pune");
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
 	}
