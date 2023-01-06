@@ -3,6 +3,7 @@
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.irctc.com/contact.html");
-		uploaded
-	
+		driver.findElement(By.id("username")).sendkeys("Pune");
+	driver.findElement(By.id("username")).sendkeys("Pune");
+	driver.findElement(By.id("username")).sendkeys("Pune");
 	}
